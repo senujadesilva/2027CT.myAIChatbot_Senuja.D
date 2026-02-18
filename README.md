@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+My AI Chatbot
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Building my first AI chatbot
 
 ## Getting Started
 
@@ -37,6 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
+SenujaD
+
 ex. Mr Jones
 ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
@@ -50,7 +52,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GNU GPL v3.0] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
